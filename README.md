@@ -22,7 +22,7 @@ Projeto de Podcast gerado por IA (ElevenLabs, DALL-E 3). Demonstra Vibe Writing 
 
 # 🎙️ Projeto Podcast: KAURA: Prompt para Liberdade [KPL]
 
-> 💡 **Contexto e Propósito:** Este projeto, desenvolvido durante o curso "Fundamentos de IA Generativa", demonstra a aplicação prática da **Engenharia de Prompts (Vibe Writing)**. A missão é traduzir a IA complexa em **linguagem didática e metafórica** (a **Vibe** do KAURA: Mulheres usando IA para **ganhar tempo e liberdade**).
+> 💡 **Contexto e Propósito:** Este projeto, desenvolvido durante o curso "Universia - Fundamentos de IA Generativa", demonstra a aplicação prática da **Engenharia de Prompts (Vibe Writing)**. A missão é traduzir a IA complexa em **linguagem didática e metafórica** (a **Vibe** do KAURA: Mulheres usando IA para **ganhar tempo e liberdade**).
 
 ---
 
