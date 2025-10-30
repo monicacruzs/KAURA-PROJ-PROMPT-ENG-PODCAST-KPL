@@ -8,7 +8,7 @@ Projeto de Podcast gerado por IA (ElevenLabs, DALL-E 3). Demonstra Vibe Writing 
 <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
 <a href="https://github.com/monicacruzs/KAURA-PROJ-PROMPT-ENG-PODCAST-KPL/tree/main/prompts" title="Repositório Prompts"><img src="https://img.shields.io/badge/Prompt%20Engineering-Project-blue?logo=github" alt="Feito com Prompt Engineering"></a>
 <a href="https://youtu.be/jMU1BRQeUMA" title="Ouvir Podcast">
-<img src="https://img.shields.io/badge/PODCAST%2FLIBERDADE-Ouvir%20Agora-red?logo=soundcloud&logoColor=white" alt="Ouvir Podcast">
+<img src="https://img.shields.io/badge/PODCAST%2FLIBERDADE-Ouvir%20Agora-red?logo=youtube" alt="Ouvir Podcast">
 </a>
 
 ---
